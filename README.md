@@ -1,4 +1,4 @@
-### Hi there �, I'm João David 
+### Hi there , I'm João David 
 
 
 
