@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Spring Boot
+- 🔭 I’m currently working on Java / Javascript
+- 🌱 I’m currently learning Spring Boot / React Js
 - 👯 I’m looking to get some experience on Software Development
 - 📫 How to reach me: jdavid72009@hotmail.com
 
@@ -18,6 +18,10 @@
   <img align="center" alt="David-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="David-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="David-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+  <img align="center" alt="DavidJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="DavidReact" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+  
 </div>
   
   <br>
