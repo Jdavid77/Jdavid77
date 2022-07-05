@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Java / Javascript
-- 🌱 I’m currently learning Spring Boot / React Js
+- 🔭 I’m currently working on Cloud Technologies
+- 🌱 I’m currently learning Monitoring Technologies
 - 👯 I’m looking to get some experience on Software Development
 - 📫 How to reach me: jdavid72009@hotmail.com
 
