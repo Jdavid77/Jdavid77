@@ -2,10 +2,8 @@
 
 
 
-- 🔭 I’m currently working on Cloud Technologies
-- 🌱 I’m currently learning Monitoring Technologies
-- 👯 I’m looking to get some experience on Software Development
-- 📫 How to reach me: jdavid72009@hotmail.com
+- 🔭 I’m currently working on Cloud Native Technologies
+- 📫 How to reach me: johnynobrega17@gmail.com
 
 <div align="center">
   <a href="https://github.com/Jdavid77">
